@@ -1,0 +1,6 @@
+Create a new file called config.json, add the following:
+{
+  "token": "discord bot token",
+  "clientId": "id of bot client- can be found in discord developer portal",
+  "guildId": "server id of development guild"
+}
