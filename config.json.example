@@ -1,0 +1,4 @@
+Create a new file called config.json, add the following:
+{
+	"token": "[discord bot token]"
+}
